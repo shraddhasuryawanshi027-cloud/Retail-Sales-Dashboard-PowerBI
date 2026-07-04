@@ -84,6 +84,9 @@ Columns include:
 - Dashboard.png
 - Retail_Sales_Dashboard.pdf
 - Sample_Superstore.xlsx
+
+📌 Conclusion
+This dashboard demonstrates how Power BI can transform raw retail sales data into meaningful business insights using interactive visualizations, KPI tracking, and filtering capabilities. It reflects practical business analytics skills applicable to real-world decision-making.
   
 👩‍💻 Author
 Shraddha Suryawanshi
